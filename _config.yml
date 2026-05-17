@@ -1,0 +1,11 @@
+title: Yolio
+description: Yol Boyu Hava ve Rota Asistanı · Road Weather & Route Assistant
+theme: jekyll-theme-minimal
+show_downloads: false
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true
+include:
+  - "*.md"
