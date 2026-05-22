@@ -17,5 +17,5 @@ durumunu görmeni sağlayan mobil uygulama.
 
 ## İletişim
 
-- E-posta: privacy@yolio.app
+- E-posta: support@yolio.app
 - Destek: support@yolio.app

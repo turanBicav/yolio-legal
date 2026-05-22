@@ -159,7 +159,7 @@ Avrupa Birliği'nde bulunuyorsanız aşağıdaki haklara sahipsiniz:
 
 Yolio uygulama tasarımı gereği kişisel veri saklamadığından bu talepler için
 özel bir form gerekmez — uygulamayı silmek tüm yerel veriyi siler. Yine de
-sorularınız için privacy@yolio.app adresine yazabilirsiniz.
+sorularınız için support@yolio.app adresine yazabilirsiniz.
 
 ## 9. California kullanıcıları (CCPA)
 
@@ -174,7 +174,7 @@ Bu politika değişirse:
 
 ## 11. İletişim
 
-Gizlilik soruları için: **privacy@yolio.app**
+Gizlilik soruları için: **support@yolio.app**
 
 ---
 
@@ -330,7 +330,7 @@ If you are in the EU, you have the right to:
 
 Yolio's design avoids storing personal data, so these requests are typically
 satisfied by uninstalling the app (which clears all local data). You may still
-contact privacy@yolio.app with any concerns.
+contact support@yolio.app with any concerns.
 
 ## 9. California users (CCPA)
 
@@ -345,4 +345,4 @@ If this policy changes:
 
 ## 11. Contact
 
-Privacy questions: **privacy@yolio.app**
+Privacy questions: **support@yolio.app**
